@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning Full Stack Development. 
 - I have strong knowledge in Data Structre & Alogrithms.
 - 📫 Reach me at [souravjaiswal2000@gmail.com](mailto:souravjaiswal2000@gmail.com)
+- 💬Text me at [@Whatsapp](https://wa.me/+918017474045)
 - ⚡ Fun fact: I Love to build awesome tools and solve complex problems.
 
 ***
